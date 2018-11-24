@@ -16,3 +16,5 @@ One of my most common uses with Python is data collection and visualization for 
 
 ## Data Visualization
 WIth the data having been collected, it tends to be useful to be able to see what it is. This portion will walk you through some basic usages of the MATPLOTLIB library. 
+
+[Click here for a detailed blog post](http://oshgarage.com/python-matplotlib-data-visualization-example/)

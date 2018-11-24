@@ -19,7 +19,6 @@ with open('sineData.csv') as csvfile:
 plt.xlabel('Sample')
 plt.ylabel('Voltage')
 plt.title('Example Plot')
-#plt.legend() # not used here since we only have one data set
 
 # apply data to plot
 plt.plot(x_axis,y_axis)
